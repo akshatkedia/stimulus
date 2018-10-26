@@ -8,6 +8,7 @@
     "Javan Makhmali <javan@javan.us>",
     "Sam Stephenson <sstephenson@gmail.com>"
   ],
+  "module": "index.js",
   "license": "MIT",
   "dependencies": {
     "core-js": ">=2.5.3",

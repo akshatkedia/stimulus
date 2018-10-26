@@ -1,7 +1,7 @@
 {
   "extends": "./tsconfig.shared.json",
   "compilerOptions": {
-    "target": "es5",
+    "target": "esnext",
     "module": "es2015",
     "lib": ["dom", "es2015", "scripthost"]
   }
